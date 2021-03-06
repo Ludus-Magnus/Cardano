@@ -1,1 +1,6 @@
-{"name":"Ludus_Magnus","ticker":"LUMA","description":"Supporting the Cardano Project!","homepage":"https://ludus-magnus.github.io/Cardano/"}
+{
+  "name": "Ludus_Magnus",
+  "description": "Ludus Magnus Staking Pool",
+  "ticker": "Ludus",
+  "homepage": "https://"
+  }
