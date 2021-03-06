@@ -2,7 +2,7 @@
   "name": "Ludus_Magnus",
   "ticker": "LUDUS",
   "description": "Ludus Magnus Staking Pool",
-  "homepage": "https://github.com/Ludus-Magnus/Cardano/",
+  "homepage": "https://ludus-magnus.github.io/Cardano/",
   "nonce": "1615010503",
   "extended": "https://github.com/Ludus-Magnus/Cardano/blob/main/ludusmeta.json"
 }
